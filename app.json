@@ -38,7 +38,7 @@
 			"ALIVE_IMAGE": {
 			"description": "Add Your Alive Image Derect Link",
 			"required": true,
-			"value": "https://telegra.ph/file/bd50f0727084519bf78e9.jpg"
+			"value": "https://i.ibb.co/YPM9pKW/stj-bot.jpg"
 			},
 			"ALIVE_MSG": {
 			"description": "Add Your Alive massage",
