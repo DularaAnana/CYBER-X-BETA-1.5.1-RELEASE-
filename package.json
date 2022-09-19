@@ -17,7 +17,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "darkalphaxteam",
+  "author": "ᴄʏʙᴇʀ x ꜱᴛᴊ",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "github:darkalphaxteam/baileys",
@@ -75,10 +75,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/darkalphaxteam/Cyber-X-Beta-Release.git"
+    "url": "https://github.com/STJ-BOT/CYBER-X-BETA-1.5.1-RELEASE.git"
   },
   "bugs": {
-    "url": "https://github.com/darkalphaxteam/Cyber-X-Beta-Release/issues"
+    "url": "https://github.com/STJ-BOT/CYBER-X-BETA-1.5.1-RELEASE/issues"
   },
-  "homepage": "https://github.com/darkalphaxteam/Cyber-X-Beta-Release#readme"
+  "homepage": "https://github.com/STJ-BOT/CYBER-X-BETA-1.5.1-RELEASE#readme"
 }
